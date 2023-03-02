@@ -1,4 +1,6 @@
-***Explicación de Shell de administración:***
+***EXPLICACIÓN SHELL DE ADMINISTRACIÓN***
+
+---
 
 Al ejecutar el respectivo Shell de administración, se podrá visualizar el siguiente menú:
 
