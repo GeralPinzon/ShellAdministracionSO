@@ -38,6 +38,42 @@ Configuración de herramienta de desarrollo
   Primero debemos ubicarnos en el servidor que se esta trabajando, para generar las llaves SSH se debe ejecutar el comando ssh-keygen, despues de ejecutar este comando   se debe copiar la llave que se genero en la sigueinte ruta /home/ubuntu/.ssh/id_rsa.pub el archivo id_rsa.pub.
   
   
+# Taller Docker 2
+
+Agregar modulo de instalación de Docker en menú de administración para instalación y pruebas unitarias.
+
+```bash
+- ------------------------------------------------------------------------- -
+- Server Name: [ubuntu-rancher]                                           
+- ------------------------------------------------------------------------- -
+- MENU: Install Container Linux Ubuntu                                      -
+- ------------------------------------------------------------------------- -
+- 1. Aprovisionar Servers              -  6.                                -
+- 2. Subir Cambios Git                 -  7.                                -
+- 3. Install Docker                    -  8.                                -
+- 4. Install Rancher                   -  9.                                -
+- 5. Install kubectl                   - 10.                                -
+- ------------------------------------------------------------------------- -
+- General                              -                                    -
+- ------------------------------------ - ---------------------------------- -
+- 14. Apagar Servidor                  -                                    -
+- 15. Reiniciar Servidor               -                                    -
+- 16. Cambiar password Usuarios        -                                    -
+- ------------------------------------------------------------------------- -
+- E. Exit                                                                   -
+- ------------------------------------------------------------------------- -
+Enter your choice [1-100] 
+```
+
+
+Subir cambios a repositorio
+
+Clonar repositorio
+
+Instalar Shell en servidor de AWS
+
+Pruebas (docker –versión y Docker-compose --version)
+
 
 
 
