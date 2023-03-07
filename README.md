@@ -149,11 +149,14 @@ fi
 read -p"Press [Enter] key to continue..." readEnterKey
 ```
 
+- Clonar repositorio
+
+
+
+- Instalar Shell en servidor de AWS
+
 - Subir cambios a repositorio
 
-Clonar repositorio
-
-Instalar Shell en servidor de AWS
 
 Pruebas (docker –versión y Docker-compose --version)
 
