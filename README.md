@@ -24,13 +24,13 @@ Configuración de herramienta de desarrollo
   
   Para crear un repositorio nuevo se debe ingresar a la cuenta creada anteriormente en GitHub, donde debera dar clic en el cuadro rojo que indica al boton NEW
   <p align="center">
-  <img src="imagenesTallerDocker/crearRepositorio.png" width="500" height="150" title="Página para la creación de usuario en dockerhub">
+  <img src="imagenesTallerDocker/crearRepositorio.png" width="500" height="150" title="Página para la creación de usuario GitHub">
   </p>
   
   Luego podra ver la siguiente pantalla, donde debera colocar el nombre del repositorio, indicar si es publico o privado y llenar demas datos.
   
   <p align="center">
-  <img src="imagenesTallerDocker/crearRepositorioPaso2.png" width="500" height="200" title="Página para la creación de usuario en dockerhub">
+  <img src="imagenesTallerDocker/crearRepositorioPaso2.png" width="500" height="200" >
   </p>
 
 - Configuración de llaves SSH
@@ -150,6 +150,19 @@ read -p"Press [Enter] key to continue..." readEnterKey
 ```
 
 - Clonar repositorio
+  
+  Para clonar el repositorio se debe ubicar dentro del repositorio, y elegir la opción de la parte superior derecha dar clic en code - SSH - y copiar el enlace. 
+
+ <p align="center">
+  <img src="imagenesTallerDocker/Taller2_ClonarRepositorio.png" width="400" height="200" >
+ </p>
+ 
+ Con el enlace copiado debemos ir a la maquina para ejecutar el comando que permitira clonar el repositorio, como se muestra en la imagen:
+ 
+ <p align="center">
+  <img src="imagenesTallerDocker/Taller2_ClonarRepositorio_2.png" width="400" height="200" >
+ </p>
+
 
 
 
