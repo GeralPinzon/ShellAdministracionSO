@@ -32,10 +32,12 @@ Configuración de herramienta de desarrollo
   <p align="center">
   <img src="imagenesTallerDocker/crearRepositorioPaso2.png" width="500" height="200" title="Página para la creación de usuario en dockerhub">
   </p>
-  
-
 
 - Configuración de llaves SSH
+
+  Primero debemos ubicarnos en el servidor que se esta trabajando, para generar las llaves SSH se debe ejecutar el comando ssh-keygen, despues de ejecutar este comando   se debe copiar la llave que se genero en la sigueinte ruta /home/ubuntu/.ssh/id_rsa.pub el archivo id_rsa.pub.
+  
+  
 
 
 
