@@ -1,6 +1,5 @@
-***Taller Docker 1***
+# Taller Docker 1
 
----
 
 Configuración de herramienta de desarrollo
 
