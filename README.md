@@ -71,7 +71,7 @@
  "- --------------------------------- -"
 ```
 
-Codigo del modulo para la instalación y pruebas de Docker
+código del módulo para la instalación y pruebas de Docker
 
 ```bash
 "-----------------------------------------------------------------------------"
@@ -156,7 +156,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
   Para clonar el repositorio se debe ubicar dentro del repositorio, y elegir la opción de la parte superior derecha dar clic en code -> SSH -> y copiar el enlace. 
 
    <p align="center">
-    <img src="imagenesTallerDocker/Taller2_ClonarRepositorio.png" width="400" height="200" >
+    <img src="imagenesTallerDocker/Taller2_ClonarRepositorio.png" width="500" height="300" >
    </p>
 
     Con el enlace copiado debemos ir a la maquina para ejecutar el comando que permitirá clonar el repositorio, como se muestra en la imagen:
@@ -182,7 +182,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
   
   Finalmente, subimos el script que se desarrollo por medio de mobaxterm en la carpeta del repositorio que se clono anteriormente. 
   <p align="center">
-    <img src="imagenesTallerDocker/Taller2_instalarShell_2.png" width="500" height="220" >
+    <img src="imagenesTallerDocker/Taller2_instalarShell_2.png" width="600" height="300" >
   </p>
 
 - Subir cambios a repositorio
@@ -190,13 +190,13 @@ read -p"Press [Enter] key to continue..." readEnterKey
   Despues de haber instalado la shell, se procedera a subir los cambios, para esto se ejecutan los siguientes comandos:
   
   <p align="center">
-    <img src="imagenesTallerDocker/Taller2_SubirCambios.png" width="500" height="250" >
+    <img src="imagenesTallerDocker/Taller2_SubirCambios.png" width="600" height="350" >
   </p>
   
   Si revisamos el repositorio debe visualizarse el nuevo archivo script.sh, como se visualiza en la siguiente imagen:
   
   <p align="center">
-    <img src="imagenesTallerDocker/Taller2_SubirCambios_Repositorio.png" width="500" height="250" >
+    <img src="imagenesTallerDocker/Taller2_SubirCambios_Repositorio.png" width="600" height="350" >
   </p>  
 
 
