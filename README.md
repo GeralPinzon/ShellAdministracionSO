@@ -247,7 +247,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
 
 - Instalar Shell en servidor de AWS
 
-  Para instalar el Shell en el servidor AWS, nos ubicamos en la carpeta del repositorio que se clono anteriormente, luego debemos ubicarnos en la rama que se creo para el taller 2 -> adminDocker-sh. 
+  Para instalar el Shell en el servidor AWS, nos ubicamos en la carpeta del repositorio que se clono anteriormente, luego debemos ubicarnos en la rama que se creo para el taller 2 -> admin-sh. 
   
   <p align="center">
     <img src="image/Taller2_instalarShell_AWS.png" width="600" height="220" >
