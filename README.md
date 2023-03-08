@@ -250,12 +250,12 @@ read -p"Press [Enter] key to continue..." readEnterKey
   Para instalar el Shell en el servidor AWS, nos ubicamos en la carpeta del repositorio que se clono anteriormente, luego debemos ubicarnos en la rama que se creo para el taller 2 -> adminDocker-sh. 
   
   <p align="center">
-    <img src="image/Taller2_instalarShell.png" width="600" height="220" >
+    <img src="image/Taller2_instalarShell_AWS.png" width="600" height="220" >
   </p>
   
   Finalmente, subimos el script que se desarrollo por medio de mobaxterm en la carpeta del repositorio que se clono anteriormente. 
   <p align="center">
-    <img src="image/Taller2_instalarShellScript_2.png" width="600" height="300" >
+    <img src="image/Taller2_instalarShellScriptAWS_2.png" width="600" height="300" >
   </p>
 
 - Subir cambios a repositorio
@@ -278,7 +278,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
   Para iniciar las pruebas, primero se debe de dar permisos al script desde el servidor AWS, por medio del siguiente comando:
   
   <p align="center">
-    <img src="image/Taller2_Pruebas.png" width="500" height="120" >
+    <img src="image/Taller2_SubirCambios_PermisosEjecucion.png" width="500" height="120" >
   </p>  
   
   Luego se podrá ejecutar el script con el comando ./script.sh, esto nos permitirá ver el menu que se mostrara a continuación, el cual contiene la opción 8 Instalación Docker, al elegir esta opción se le pedira al usuario afirmar si desea instalar docker
