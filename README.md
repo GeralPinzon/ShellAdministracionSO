@@ -266,7 +266,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
     <img src="image/Taller2_SubirCambiosDesdeConsola.png" width="600" height="350" >
   </p>
   
-  Si revisamos el repositorio debe visualizarse el nuevo archivo script.sh, como se visualiza en la siguiente imagen:
+  Si revisamos el repositorio debe visualizarse el nuevo archivo shellAdministracion.sh, como se visualiza en la siguiente imagen:
   
   <p align="center">
     <img src="image/Taller2_VerificarCambios_Repositorio.png" width="600" height="350" >
@@ -281,7 +281,7 @@ read -p"Press [Enter] key to continue..." readEnterKey
     <img src="image/Taller2_SubirCambios_PermisosEjecucion.png" width="500" height="120" >
   </p>  
   
-  Luego se podrá ejecutar el script con el comando ./script.sh, esto nos permitirá ver el menu que se mostrara a continuación, el cual contiene la opción 8 Instalación Docker, al elegir esta opción se le pedira al usuario afirmar si desea instalar docker
+  Luego se podrá ejecutar el script con el comando ./shellAdministracion.sh, esto nos permitirá ver el menu que se mostrara a continuación, el cual contiene la opción 8 Instalación Docker, al elegir esta opción se le pedira al usuario afirmar si desea instalar docker
   
   <p align="center">
     <img src="image/Taller2_Pruebas_2.png" width="500" height="300" >
